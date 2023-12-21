@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+
+# Arquivos de log
+logs
+*.log
+
+# Arquivos de ambiente
+.env
+
+# Dependências instaladas pelo npm
+package-lock.json
+
+# Ignorar todos os conteúdos das pastas path/uploads e path/to
+path/to/*
+path/uploads/*
